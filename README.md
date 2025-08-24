@@ -90,7 +90,7 @@ Key metrics for the total profit and loss across all customers and regions:
 
 ## 🧑‍💼 Author
 
-- **[Your Name]**  
+- **[Abdulsalam Alizade]**  
 Sales Analyst | Excel Expert | Data Analyst
 
 ---
